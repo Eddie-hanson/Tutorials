@@ -12,10 +12,28 @@ Credits @rob mulla
    git clone https://github.com/Eddie-hanson/Tutorials.git
 2. Navigate to the project directory:
   cd Tutorials
+
 3. Create a virtual environment:
   conda create -n CondaEnv
+
 4. Activate the virtual environment:  
   conda activate CondaEnv
 
 The dataset for this analysis is
-https://www.kaggle.com/code/robikscube/pandas-introduction-youtube-tutorial/input?scriptVersionId=94752062
+https://www.kaggle.com/code/robikscube/pandas-introduction-youtube-tutorial/input?scriptVersionId=94752062   
+
+
+## Running the Analysis
+
+Open VsCode
+
+Navigate to the notebooks directory .
+
+Open the main analysis notebook (e.g., Introduction_to_Pandas.ipynb).
+
+Run each cell in the notebook sequentially to perform the analysis.
+
+
+
+
+Run each cell in the notebook sequentially to perform the analysis.
